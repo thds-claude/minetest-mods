@@ -3743,3 +3743,109 @@ fatal: Konnte nicht vom Remote-Repository lesen.
 Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
 und das Repository existiert.
 [2026-03-19 16:40:38] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:40:55] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:41:12] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:41:29] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:41:45] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:42:03] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:42:20] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:42:36] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:42:53] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:43:10] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:43:26] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:43:43] ERROR: git fetch fehlgeschlagen
+ERROR: Repository not found.
+fatal: Konnte nicht vom Remote-Repository lesen.
+
+Bitte stellen Sie sicher, dass die korrekten Zugriffsberechtigungen bestehen
+und das Repository existiert.
+[2026-03-19 16:44:00] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:44:17] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:44:34] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:44:51] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:45:08] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:45:25] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:45:43] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:46:00] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:46:17] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:46:34] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:46:51] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:47:08] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:47:25] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:47:43] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:48:00] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:48:17] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:48:35] ERROR: git fetch fehlgeschlagen
+fatal: Konnte Remote-Referenz main nicht finden.
+[2026-03-19 16:48:52] ERROR: git fetch fehlgeschlagen
