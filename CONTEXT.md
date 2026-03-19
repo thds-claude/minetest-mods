@@ -1,10 +1,5 @@
 # CONTEXT.md — minetest-mods
-> Projekt-spezifische Notizen.
-> Vollständige Arbeitsregeln: ~/GitHub/thds-claude/thds-claude/CONTEXT.md
-
-## Repo
-- **Zweck:** Minetest Mod-Code
-- **Lokal:** ~/GitHub/thds-claude/minetest-mods/
+Vollständige Arbeitsregeln: ~/GitHub/thds-claude/thds-claude/CONTEXT.md
 
 ## Aktueller Stand
 (hier eintragen)
