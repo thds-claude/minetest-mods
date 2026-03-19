@@ -1,6 +1,5 @@
 #!/bin/bash
-# sync_watch.sh — Auto-Sync Dienst
-# Überwacht GitHub auf Änderungen, synct Mods, startet Server neu
+# sync_watch.sh — Auto-Sync Dienst für minetest-mods
 set -euo pipefail
 
 REPO_DIR="${REPO_DIR:-$(cd "$(dirname "$0")/.." && pwd)}"
@@ -21,7 +20,7 @@ sync_files() {
     rsync -av --delete \
         --exclude='.git' --exclude='*.log' \
         "$REPO_DIR/mods/" "$MODS_TARGET/" >> "$LOG_FILE" 2>&1
-    log "Sync abgeschlossen → $MODS_TARGET"
+    log "Sync → $MODS_TARGET"
 }
 
 restart_server() {

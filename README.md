@@ -1,23 +1,4 @@
 # minetest-mods
-Teil des thds-claude Team-Projekts.
+Minetest Mod-Code
 
-## Schnellstart (nach setup_v1.sh)
-```bash
-# Sync-Dienst Status
-systemctl status thds-sync@$(whoami)
-
-# Live-Log
-journalctl -fu thds-sync@$(whoami)
-
-# Session speichern
-./scripts/save_session.sh "Thema"
-
-# Claude briefen
-cat CONTEXT.md
-```
-
-## Branches
-| Branch | Zweck |
-|--------|-------|
-| main   | Stabil, läuft auf dem Server |
-| dev    | Laufende Entwicklung |
+Teil des [thds-claude](https://github.com/thds-claude) Projekts.
